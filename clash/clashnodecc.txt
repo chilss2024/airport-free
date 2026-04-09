@@ -10643,4 +10643,4 @@ proxy-groups:
       - жњЄзџҐ_6
       - рџ‡єрџ‡ё_US_зѕЋе›Ѕ_5
 
-error code: 520
+未获取到节点，错误代码：('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
